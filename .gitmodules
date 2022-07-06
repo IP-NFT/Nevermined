@@ -1,3 +1,6 @@
 [submodule "nevermined-sdk"]
 	path = nevermined-sdk
 	url = https://github.com/nevermined-io/sdk-js
+[submodule "nevermined-cli"]
+	path = nevermined-cli
+	url = https://github.com/nevermined-io/cli
